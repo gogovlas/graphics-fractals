@@ -1,12 +1,12 @@
 /*************************************************
- *  Vlasis Gogousis 2118                         *
+ *  Vlasis Gogousis                              *
  *                                               *
  *  Program illustrates the following fractals:  *
  *  (1) Pentagon                                 *
  *  (2) Hexagon                                  *
  *  (3) Barnsley Fern                            *
  *                                               *
- *  Graphics, September 2014                     *
+ *  September 2014                     *
  *************************************************/
 
 #include <windows.h>
